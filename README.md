@@ -3,7 +3,7 @@ A hospital management dashboard built in Power BI that visualizes patient admiss
 
 ## Project Overview
 
-This Power BI dashboard is designed to provide a comprehensive and interactive visualization of hospital management data. It helps in monitoring patient activity, hospital performance, and key healthcare metrics through visual storytelling. The project uses patient-level data to derive insights related to admission trends, discharge follow-ups, billing, insurance claims, medical tests, doctor feedback, and more.
+This Power BI dashboard is designed from the inpiration of a youtube tutorial of the channel named 'Top Varsity' to provide a comprehensive and interactive visualization of hospital management data. It helps in monitoring patient activity, hospital performance, and key healthcare metrics through visual storytelling. The project uses patient-level data to derive insights related to admission trends, discharge follow-ups, billing, insurance claims, medical tests, doctor feedback, and more.
 
 
 ##  Dataset Features
